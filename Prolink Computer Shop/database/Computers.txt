@@ -1,0 +1,10 @@
+1 , hp , i3 , 8GB , Desktop
+2 , ACER , i3 10gen , 20GB , Desktop
+3 , HP , i5 2gen , 8gb , Desktop
+4 , Lenovo , i3 , 4GB , Laptop
+5 , HP , i5 , 8GB , Laptop
+6 , MSI , i7 13gen , 16GB , Desktop
+7 , ASUS , i5 11gen , 8GB , Desktop
+8 , HP , i3 , 12GB , Desktop
+9 , ACER , i3 10gen , 12GB , Laptop
+10 , ACER , i9 11gen , 24GB , Laptop
